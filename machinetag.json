@@ -44,6 +44,7 @@
             "expanded": "Information Gathering"
         },
         {
+            "value": "malicious-code",
             "expanded": "Malicious Code"
         },
         {
@@ -475,6 +476,7 @@
             ]
         },
         {
+            "predicate": "malicious-code",
             "entry": [
                 {
                     "value": "backdoor",
@@ -581,6 +583,7 @@
                 {
                     "value": "unknown",
                     "expanded": "Unknown",
+                    "description": "A type of malicious code for which there is insufficient information to indicate its nature. The execution of malicious code or malware has been detected, but its type cannot yet be determined.",
                     "colour": "#F07930"
                 }
             ]
@@ -597,11 +600,13 @@
                 {
                     "value": "phishing",
                     "expanded": "Phishing",
+                    "description": "Cyber events in which a user is contacted, via email or other messaging tools, by a malicious actor with the aim of leading the victim to execute malicious code or visit fabricated resources.",
                     "colour": "#F07930"
                 },
                 {
                     "value": "smishing",
                     "expanded": "Smishing",
+                    "description": "Cyber events in which a user is contacted, via the sending of short text messages, SMS, by a malicious actor with the aim of leading the victim to execute malicious code or to visit fabricated resources.",
                     "colour": "#F07930"
                 },
                 {
@@ -613,6 +618,7 @@
                 {
                     "value": "vishing",
                     "expanded": "Vishing",
+                    "description": "Cyber events in which a user is contacted, via voice communication systems, by a criminal actor with the aim of leading the victim to execute malicious code or to steal data.",
                     "colour": "#F07930"
                 },
                 {
@@ -1449,6 +1455,7 @@
                 {
                     "value": "drive-by-compromise",
                     "expanded": "Drive By Compromise",
+                    "description": "A cyber events in which a user, while browsing a website, is exposed to potential attacks, such as through the exploitation of application vulnerabilities of the device used or through the use of malicious code.",
                     "colour": "#0070C0"
                 },
                 {
