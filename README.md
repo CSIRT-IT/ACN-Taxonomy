@@ -5,4 +5,5 @@ Repository containing the following files:
 ~~~~
 machinetag.json (MISP taxonomy format)
 machinetag_code.json (json file with codes attached to the ACN taxonomy guide)
+taxonomy_code_ita.json (file json con codici e descrizioni in italiano allegato alla guida sulla tassonomia ACN)
 ~~~~
