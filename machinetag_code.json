@@ -351,14 +351,14 @@
                 {
                     "value": "misconfiguration",
                     "expanded": "Misconfiguration",
-                    "description": "Non-malicious cyber events in which an incorrect or suboptimal configuration of a computer asset or its component has compromised the availability of a service. ",
+                    "description": "Non-malicious cyber events in which an incorrect or suboptimal configuration of a computer asset or its component has compromised the availability of a service.",
                     "code": "TT:AV_MI",
                     "colour": "#F07930"
                 },
                 {
                     "value": "outage",
                     "expanded": "Outage",
-                    "description": "Non-malicious cyber events in which a total or partial loss of availability of a computer asset has been observed due to natural or human-caused events. ",
+                    "description": "Non-malicious cyber events in which a total or partial loss of availability of a computer asset has been observed due to natural or human-caused events.",
                     "code": "TT:AV_OU",
                     "colour": "#F07930"
                 },
@@ -565,7 +565,7 @@
                 {
                     "value": "exploit-kit",
                     "expanded": "Exploit Kit",
-                    "description": "A collection of software tools designed to exploit vulnerabilities present in a network, a system, or an application. ",
+                    "description": "A collection of software tools designed to exploit vulnerabilities present in a network, a system, or an application.",
                     "code": "TT:MA_EX",
                     "colour": "#F07930"
                 },
@@ -621,7 +621,7 @@
                 {
                     "value": "trojan",
                     "expanded": "Trojan",
-                    "description": "A type of software that presents itself to the user in the form of a legitimate or otherwise harmless program, but which, once executed, aims to download and launch further malicious software on the target information asset. ",
+                    "description": "A type of software that presents itself to the user in the form of a legitimate or otherwise harmless program, but which, once executed, aims to download and launch further malicious software on the target information asset.",
                     "code": "TT:MA_TR",
                     "colour": "#F07930"
                 },
@@ -668,7 +668,7 @@
                 {
                     "value": "baiting",
                     "expanded": "Baiting",
-                    "description": "Fraudulent activities in which a malicious actor attracts the victim by means of a lure, such as the promise of receiving a benefit or obtaining an advantage. ",
+                    "description": "Fraudulent activities in which a malicious actor attracts the victim by means of a lure, such as the promise of receiving a benefit or obtaining an advantage.",
                     "code": "TT:SO_BA",
                     "colour": "#F07930"
                 },
@@ -783,7 +783,7 @@
                 {
                     "value": "espionage",
                     "expanded": "Espionage",
-                    "description": "Cyber events in which an attacker has conducted an unlawful activity aimed at acquiring sensitive, proprietary, or classified data/information in order to achieve economic gain, competitive advantage, or for political reasons. ",
+                    "description": "Cyber events in which an attacker has conducted an unlawful activity aimed at acquiring sensitive, proprietary, or classified data/information in order to achieve economic gain, competitive advantage, or for political reasons.",
                     "code": "TA:AM_ES",
                     "colour": "#C10000"
                 },
@@ -1382,8 +1382,8 @@
                     "colour": "#0070C0"
                 },
                 {
-                    "value": "software-application_remote-s-shell-server-application ",
-                    "expanded": "Software Application Remote S Shell Server Application ",
+                    "value": "software-application_remote-s-shell-server-application",
+                    "expanded": "Software Application Remote S Shell Server Application",
                     "description": "A program that provides the client with an interactive shell, allowing the remote user to execute commands and manage the system as if they were physically present.",
                     "code": "AC:IN_SW-AP_SSH",
                     "colour": "#0070C0"
@@ -1618,7 +1618,7 @@
                 {
                     "value": "sabotage",
                     "expanded": "Sabotage",
-                    "description": "Any intentional action aimed at damaging, destroying, or altering the functioning of an IT resource or parts thereof. ",
+                    "description": "Any intentional action aimed at damaging, destroying, or altering the functioning of an IT resource or parts thereof.",
                     "code": "AC:PH_SA",
                     "colour": "#0070C0"
                 },
@@ -1693,7 +1693,7 @@
                 {
                     "value": "hardware-additions",
                     "expanded": "Hardware Additions",
-                    "description": "Cyber events in which a malicious actor utilizes hardware devices in an unauthorized manner to perform malicious or illicit actions, such as accessing an information asset or intercepting sensitive data. ",
+                    "description": "Cyber events in which a malicious actor utilizes hardware devices in an unauthorized manner to perform malicious or illicit actions, such as accessing an information asset or intercepting sensitive data.",
                     "code": "AC:VE_HA",
                     "colour": "#0070C0"
                 },
@@ -1707,7 +1707,7 @@
                 {
                     "value": "supply-chain",
                     "expanded": "Supply Chain",
-                    "description": "Cyber events that utilize, as attack vector, products or services provided by third parties within the supply chain which exhibit vulnerabilities or have been compromised prior to distribution to the end user. ",
+                    "description": "Cyber events that utilize, as attack vector, products or services provided by third parties within the supply chain which exhibit vulnerabilities or have been compromised prior to distribution to the end user.",
                     "code": "AC:VE_SU",
                     "colour": "#0070C0"
                 },
