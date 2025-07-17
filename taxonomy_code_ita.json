@@ -1006,7 +1006,7 @@
                 {
                     "value": "hardware-ot_remote-terminal-unit",
                     "expanded": "Hardware OT Remote Terminal Unit",
-                    "description": "Unità remote in grado di ricevere e decodificare i messaggi provenienti dal sistema centrale di controllo. ",
+                    "description": "Unità remote in grado di ricevere e decodificare i messaggi provenienti dal sistema centrale di controllo.",
                     "code": "AC:IN_HW-OT_RTU",
                     "colour": "#0070C0"
                 },
@@ -1020,7 +1020,7 @@
                 {
                     "value": "hardware-ot_programmable-logic-controller",
                     "expanded": "Hardware OT Programmable Logic Controller",
-                    "description": "Sistema elettronico a funzionamento digitale, destinato all’uso in ambito industriale. ",
+                    "description": "Sistema elettronico a funzionamento digitale, destinato all’uso in ambito industriale.",
                     "code": "AC:IN_HW-OT_PLC",
                     "colour": "#0070C0"
                 },
@@ -1244,14 +1244,14 @@
                 {
                     "value": "software-ot_physical-access-control-system",
                     "expanded": "Software OT Physical Access Control System",
-                    "description": "Sistema elettronico di sicurezza fisica che controlla l'accesso alle aree protette tramite opportuna autenticazione e/o autorizzazione. ",
+                    "description": "Sistema elettronico di sicurezza fisica che controlla l'accesso alle aree protette tramite opportuna autenticazione e/o autorizzazione.",
                     "code": "AC:IN_SW-OT_PACS",
                     "colour": "#0070C0"
                 },
                 {
                     "value": "software-ot_communication-protocol",
                     "expanded": "Software OT Communication Protocol",
-                    "description": "Insieme di regole che definiscono le modalità di comunicazione tra due o più entità. ",
+                    "description": "Insieme di regole che definiscono le modalità di comunicazione tra due o più entità.",
                     "code": "AC:IN_SW-OT_CP",
                     "colour": "#0070C0"
                 },
